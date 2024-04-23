@@ -2,7 +2,7 @@
 
 This repository contains the code snippets used in [The Ansible Workshop](https://amzn.to/4aNym1n) book.
 
-![The Ansible Workshop](./assets/TheAnsibleWorkshop3D.png)
+[![The Ansible Workshop](./assets/TheAnsibleWorkshop3D.png)](https://amzn.to/4aNym1n)
 
 ## About the Book
 
